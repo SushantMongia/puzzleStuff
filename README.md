@@ -5,6 +5,7 @@ Interview Coding
 # Run from commandline.
 
 Step 1: python puzzleSol.py
+
 Step 2: Enter the filename.csv
 
 Make sure to include /path/to/sampledata.csv  in case they're not in the same directory
