@@ -3,10 +3,15 @@ Interview Coding
 
 
 # Run from commandline.
+cd /directory/where/you/want/to/store
 
-Step 1: python puzzleSol.py
+git clone https://github.com/SushantMongia/puzzleStuff.git
 
-Step 2: Enter the filename.csv
+cd /directory/where/you/want/to/store/puzzleStuff
+
+python puzzleSol.py
+
+Enter the filename.csv you want to process
 
 Make sure to include /path/to/sampledata.csv  in case they're not in the same directory
 
